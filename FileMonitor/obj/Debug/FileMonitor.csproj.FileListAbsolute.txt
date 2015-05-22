@@ -1,0 +1,9 @@
+C:\Development\FileMonitor\FileMonitor\bin\Debug\FileMonitor.exe.config
+C:\Development\FileMonitor\FileMonitor\bin\Debug\FileMonitor.exe
+C:\Development\FileMonitor\FileMonitor\bin\Debug\FileMonitor.pdb
+C:\Development\FileMonitor\FileMonitor\obj\Debug\FileMonitor.csprojResolveAssemblyReference.cache
+C:\Development\FileMonitor\FileMonitor\obj\Debug\FileMonitor.Form1.resources
+C:\Development\FileMonitor\FileMonitor\obj\Debug\FileMonitor.Properties.Resources.resources
+C:\Development\FileMonitor\FileMonitor\obj\Debug\FileMonitor.csproj.GenerateResource.Cache
+C:\Development\FileMonitor\FileMonitor\obj\Debug\FileMonitor.exe
+C:\Development\FileMonitor\FileMonitor\obj\Debug\FileMonitor.pdb
